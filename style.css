@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Poller+One&display=swap");
+
+@font-face {
+  font-family: "SF Distant Galaxy";
+  src: url("SFDistantGalaxy.ttf") format("truetype");
+}
+/* phone */
+body {
+  background-color: #e4e7ec;
+}
+
+
+
+h1 {
+  font-family: "SF Distant Galaxy";
+}
+
+
+
+/* computer */
+@media screen and (min-width: 600px) {
+
+
+
+}
+
