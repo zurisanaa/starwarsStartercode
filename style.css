@@ -11,6 +11,8 @@ img {
   font-family: "SF Distant Galaxy";
   src: url("SFDistantGalaxy.ttf") format("truetype");
 }
+
+
 /* phone */
 body {
   background-color: #e4e7ec;
