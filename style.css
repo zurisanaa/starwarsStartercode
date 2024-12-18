@@ -25,11 +25,39 @@ h1 {
 }
 
 
+.top,top2{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
 
+.header{
+  display:flex;
+  justify-content: center;
+}
+
+nav{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 /* computer */
 @media screen and (min-width: 600px) {
 
 
-
+body{
+  background-color: #e4e7ec;
 }
 
+.top, .top2{
+  display:flex;
+  flex-direction: row;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+}
